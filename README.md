@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Spring Boot projects that shape me as Backend Developer**
 
-- 💬 Ask me about **java, PostgreSQL and Spring Boot**
+- 💬 Ask me about **Java, PostgreSQL and Spring Boot**
 
 - 📫 How to reach me **yadavsachchidanand18@gmail.com**
 
@@ -24,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavsachchidanand18&show_icons=true&locale=en&layout=compact" alt="yadavsachchidanand18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavsachchidanand18&show_icons=true&locale=en" alt="yadavsachchidanand18" /></p>
-
